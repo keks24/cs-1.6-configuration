@@ -207,7 +207,7 @@ Scheme
 				"name"		"Tahoma"
 				"tall"		"16"
 				"weight"	"0"
-				// custom - 20200912 - rfischer: make underlines visible
+				// custom - 20200924 - rfischer: make underlines visible. only works with an in-game resolution of "800x600"
 				"dropshadow" "1"
 			}
 		}
